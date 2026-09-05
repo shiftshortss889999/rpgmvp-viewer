@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RPGMVP Просмотрщик</string>
+    <string name="select_folder">Выбрать папку</string>
+    <string name="select_folder_hint">Выберите папку с игрой RPG Maker (там, где лежит System.json и файлы .rpgmvp)</string>
+    <string name="search_hint">Поиск по имени файла</string>
+    <string name="change_folder">Сменить папку</string>
+    <string name="key_found">ключ найден</string>
+    <string name="key_not_found">ключ НЕ найден</string>
+    <string name="status_format">Найдено файлов: %1$d · Ключ шифрования: %2$s</string>
+    <string name="viewer_title_format">%1$d/%2$d  %3$s</string>
+</resources>
